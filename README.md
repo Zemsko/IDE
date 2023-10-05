@@ -21,6 +21,8 @@ from the [Scillfactory Data Science course](https://skillfactory.ru/data-scienti
 
 ## Что практикуем?
 Учимся писать хороший код
+Учимся работать с IDE
+Учимся работать с GitHub
 
 ## Результаты
 Результаты оцениваются по среднему количеству попыток при 1000 повторений
